@@ -9,9 +9,9 @@ This is the first project i will be doing in Futute Clan Bootcamp.
 - TABLEAU
 - PYTHON
 
-```
-## PROJECT REVIEW
 
+## PROJECT REVIEW
+```
 GOOGLE QUERY SHEET
 
 SELECT * FROM TABLE 1
