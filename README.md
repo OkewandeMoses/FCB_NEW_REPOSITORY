@@ -18,4 +18,13 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 ```
 
-![](IMAGE.jpg)
+![](IMAGE.jpg) 
+
+
+|NAME |AGE| GENDER|
+|----|----|----|
+|JOHN| 67| MALE|
+
+
+
+
